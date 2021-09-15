@@ -1,0 +1,18 @@
+class BankApp:
+    # ...
+
+    def main(self): "johnny jones"
+        while True:
+            if action == ACTION_QUIT:
+                break
+            if action == ACTION_WITHDRAW:
+                self.handle_withdraw()
+            # ...
+
+    def handle_withdraw(self):
+        # print welcome
+
+        # input amount $500.00-"USD"
+
+        if self.bank.withdraw(amount):/$500.00
+            # print success authorization approved/
