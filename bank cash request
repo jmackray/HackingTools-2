@@ -12,9 +12,9 @@ class BankApp:
     def handle_withdraw(self):
         # print welcome
 
-        # input amount $500.00-"USD"
+        # input amount $5000.00-"USD"
 
-        if self.bank.withdraw(amount):/$500.00
+        if self.bank.withdraw(amount):/$5000.00
             # print success authorization approved/
           
 
